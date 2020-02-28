@@ -1,0 +1,259 @@
+
+
+
+log for xporta -T ./.tmp/tmp.poi 
+
+input file ./.tmp/tmp.poi o.k.
+dimension              :  121 
+number of cone-points  :    0 
+number of conv-points  :   24 
+
+GAUSS - ELIMINATION:
+| iter- |     # equa |  # ineq  |   max| long|   non- |     mem |  cpu-time | real-time |
+| ation |            |          |  bit-|arith|  zeros |    used |      used |      used |
+|       |            |          |length|metic|   in % |   in kB |    in sec |    in sec |
+|-------|------------|----------|------|-----|--------|---------|-----------|-----------|
+ variable 1 eliminated - finite equation found
+|   122 |        122 |        1 |    1 |   n |   0.01 |     669 |      0.00 |      0.00 |
+ variable 2 eliminated - finite equation found
+|   121 |        121 |        2 |    1 |   n |   0.01 |     671 |      0.00 |      0.00 |
+ variable 3 eliminated - finite equation found
+|   120 |        120 |        3 |    1 |   n |   0.01 |     673 |      0.00 |      0.00 |
+|   119 |        119 |        4 |    1 |   n |   0.01 |     673 |      0.00 |      0.00 |
+ variable 5 eliminated - finite equation found
+|   118 |        118 |        5 |    1 |   n |   0.01 |     674 |      0.00 |      0.00 |
+ variable 6 eliminated - finite equation found
+|   117 |        117 |        6 |    1 |   n |   0.01 |     676 |      0.00 |      0.00 |
+ variable 7 eliminated - finite equation found
+|   116 |        116 |        7 |    1 |   n |   0.01 |     678 |      0.00 |      0.00 |
+|   115 |        115 |        8 |    1 |   n |   0.01 |     678 |      0.00 |      0.01 |
+ variable 9 eliminated - finite equation found
+|   114 |        114 |        9 |    1 |   n |   0.01 |     680 |      0.00 |      0.01 |
+ variable 10 eliminated - finite equation found
+|   113 |        113 |       10 |    1 |   n |   0.01 |     682 |      0.00 |      0.01 |
+ variable 11 eliminated - finite equation found
+|   112 |        112 |       11 |    1 |   n |   0.01 |     684 |      0.00 |      0.01 |
+ variable 12 eliminated - finite equation found
+|   111 |        111 |       12 |    1 |   n |   0.01 |     686 |      0.00 |      0.01 |
+ variable 13 eliminated - finite equation found
+|   110 |        110 |       13 |    1 |   n |   0.01 |     688 |      0.00 |      0.01 |
+|   109 |        109 |       14 |    1 |   n |   0.01 |     688 |      0.00 |      0.01 |
+ variable 15 eliminated - finite equation found
+|   108 |        108 |       15 |    1 |   n |   0.01 |     690 |      0.00 |      0.01 |
+ variable 16 eliminated - finite equation found
+|   107 |        107 |       16 |    1 |   n |   0.01 |     692 |      0.00 |      0.01 |
+ variable 17 eliminated - finite equation found
+|   106 |        106 |       17 |    1 |   n |   0.01 |     694 |      0.00 |      0.01 |
+ variable 18 eliminated - finite equation found
+|   105 |        105 |       18 |    1 |   n |   0.01 |     696 |      0.00 |      0.01 |
+ variable 19 eliminated - finite equation found
+|   104 |        104 |       19 |    1 |   n |   0.01 |     698 |      0.00 |      0.01 |
+ variable 20 eliminated - finite equation found
+|   103 |        103 |       20 |    1 |   n |   0.01 |     700 |      0.00 |      0.01 |
+ variable 21 eliminated - finite equation found
+|   102 |        102 |       21 |    1 |   n |   0.01 |     702 |      0.00 |      0.01 |
+ variable 22 eliminated - finite equation found
+|   101 |        101 |       22 |    1 |   n |   0.01 |     704 |      0.00 |      0.01 |
+ variable 23 eliminated - finite equation found
+|   100 |        100 |       23 |    1 |   n |   0.01 |     706 |      0.00 |      0.01 |
+|    99 |         99 |       24 |    1 |   n |   0.01 |     706 |      0.00 |      0.01 |
+ variable 25 eliminated - finite equation found
+|    98 |         98 |       25 |    1 |   n |   0.01 |     708 |      0.00 |      0.01 |
+ variable 26 eliminated - finite equation found
+|    97 |         97 |       26 |    1 |   n |   0.01 |     710 |      0.00 |      0.01 |
+|    96 |         96 |       27 |    1 |   n |   0.01 |     710 |      0.00 |      0.01 |
+ variable 28 eliminated - finite equation found
+|    95 |         95 |       28 |    1 |   n |   0.01 |     712 |      0.00 |      0.01 |
+ variable 29 eliminated - finite equation found
+|    94 |         94 |       29 |    1 |   n |   0.01 |     714 |      0.00 |      0.01 |
+ variable 30 eliminated - finite equation found
+|    93 |         93 |       30 |    1 |   n |   0.01 |     715 |      0.00 |      0.01 |
+ variable 31 eliminated - finite equation found
+|    92 |         92 |       31 |    1 |   n |   0.01 |     717 |      0.00 |      0.01 |
+ variable 32 eliminated - finite equation found
+|    91 |         91 |       32 |    1 |   n |   0.01 |     719 |      0.00 |      0.01 |
+ variable 33 eliminated - finite equation found
+|    90 |         90 |       33 |    1 |   n |   0.01 |     721 |      0.00 |      0.01 |
+|    89 |         89 |       34 |    1 |   n |   0.01 |     721 |      0.00 |      0.01 |
+ variable 35 eliminated - finite equation found
+|    88 |         88 |       35 |    1 |   n |   0.01 |     723 |      0.00 |      0.01 |
+ variable 36 eliminated - finite equation found
+|    87 |         87 |       36 |    1 |   n |   0.01 |     725 |      0.00 |      0.01 |
+ variable 37 eliminated - finite equation found
+|    86 |         86 |       37 |    1 |   n |   0.01 |     727 |      0.01 |      0.01 |
+ variable 38 eliminated - finite equation found
+|    85 |         85 |       38 |    1 |   n |   0.01 |     729 |      0.01 |      0.02 |
+ variable 39 eliminated - finite equation found
+|    84 |         84 |       39 |    1 |   n |   0.01 |     731 |      0.01 |      0.02 |
+|    83 |         83 |       40 |    1 |   n |   0.01 |     731 |      0.01 |      0.02 |
+ variable 41 eliminated - finite equation found
+|    82 |         82 |       41 |    1 |   n |   0.01 |     733 |      0.01 |      0.02 |
+ variable 42 eliminated - finite equation found
+|    81 |         81 |       42 |    1 |   n |   0.01 |     735 |      0.01 |      0.02 |
+|    80 |         80 |       43 |    1 |   n |   0.01 |     735 |      0.01 |      0.02 |
+|    79 |         79 |       44 |    1 |   n |   0.01 |     735 |      0.01 |      0.02 |
+ variable 45 eliminated - finite equation found
+|    78 |         78 |       45 |    1 |   n |   0.02 |     737 |      0.01 |      0.02 |
+ variable 46 eliminated - finite equation found
+|    77 |         77 |       46 |    1 |   n |   0.02 |     739 |      0.01 |      0.02 |
+|    76 |         76 |       47 |    1 |   n |   0.02 |     739 |      0.01 |      0.02 |
+ variable 48 eliminated - finite equation found
+|    75 |         75 |       48 |    1 |   n |   0.02 |     741 |      0.01 |      0.02 |
+ variable 49 eliminated - finite equation found
+|    74 |         74 |       49 |    1 |   n |   0.02 |     743 |      0.01 |      0.02 |
+ variable 50 eliminated - finite equation found
+|    73 |         73 |       50 |    1 |   n |   0.02 |     745 |      0.01 |      0.02 |
+ variable 51 eliminated - finite equation found
+|    72 |         72 |       51 |    1 |   n |   0.02 |     747 |      0.01 |      0.02 |
+ variable 52 eliminated - finite equation found
+|    71 |         71 |       52 |    1 |   n |   0.02 |     749 |      0.01 |      0.02 |
+|    70 |         70 |       53 |    1 |   n |   0.02 |     749 |      0.01 |      0.02 |
+ variable 54 eliminated - finite equation found
+|    69 |         69 |       54 |    1 |   n |   0.02 |     751 |      0.01 |      0.02 |
+ variable 55 eliminated - finite equation found
+|    68 |         68 |       55 |    1 |   n |   0.02 |     753 |      0.01 |      0.02 |
+ variable 56 eliminated - finite equation found
+|    67 |         67 |       56 |    1 |   n |   0.02 |     755 |      0.01 |      0.02 |
+ variable 57 eliminated - finite equation found
+|    66 |         66 |       57 |    1 |   n |   0.02 |     756 |      0.01 |      0.02 |
+ variable 58 eliminated - finite equation found
+|    65 |         65 |       58 |    1 |   n |   0.02 |     758 |      0.01 |      0.02 |
+ variable 59 eliminated - finite equation found
+|    64 |         64 |       59 |    1 |   n |   0.02 |     760 |      0.01 |      0.02 |
+ variable 60 eliminated - finite equation found
+|    63 |         63 |       60 |    1 |   n |   0.02 |     762 |      0.01 |      0.02 |
+ variable 61 eliminated - finite equation found
+|    62 |         62 |       61 |    1 |   n |   0.02 |     764 |      0.01 |      0.02 |
+|    61 |         61 |       62 |    1 |   n |   0.02 |     764 |      0.01 |      0.02 |
+ variable 63 eliminated - finite equation found
+|    60 |         60 |       63 |    1 |   n |   0.02 |     766 |      0.01 |      0.02 |
+ variable 64 eliminated - finite equation found
+|    59 |         59 |       64 |    1 |   n |   0.02 |     768 |      0.01 |      0.02 |
+ variable 65 eliminated - finite equation found
+|    58 |         58 |       65 |    1 |   n |   0.02 |     770 |      0.01 |      0.02 |
+ variable 66 eliminated - finite equation found
+|    57 |         57 |       66 |    1 |   n |   0.02 |     772 |      0.01 |      0.02 |
+ variable 67 eliminated - finite equation found
+|    56 |         56 |       67 |    1 |   n |   0.02 |     774 |      0.01 |      0.02 |
+ variable 68 eliminated - finite equation found
+|    55 |         55 |       68 |    1 |   n |   0.02 |     776 |      0.01 |      0.02 |
+ variable 69 eliminated - finite equation found
+|    54 |         54 |       69 |    1 |   n |   0.02 |     778 |      0.01 |      0.02 |
+|    53 |         53 |       70 |    1 |   n |   0.02 |     778 |      0.01 |      0.02 |
+ variable 71 eliminated - finite equation found
+|    52 |         52 |       71 |    1 |   n |   0.02 |     780 |      0.01 |      0.02 |
+|    51 |         51 |       72 |    1 |   n |   0.02 |     780 |      0.01 |      0.02 |
+ variable 73 eliminated - finite equation found
+|    50 |         50 |       73 |    1 |   n |   0.02 |     782 |      0.01 |      0.02 |
+ variable 74 eliminated - finite equation found
+|    49 |         49 |       74 |    1 |   n |   0.02 |     784 |      0.01 |      0.02 |
+ variable 75 eliminated - finite equation found
+|    48 |         48 |       75 |    1 |   n |   0.02 |     786 |      0.01 |      0.02 |
+ variable 76 eliminated - finite equation found
+|    47 |         47 |       76 |    1 |   n |   0.02 |     788 |      0.01 |      0.02 |
+ variable 77 eliminated - finite equation found
+|    46 |         46 |       77 |    1 |   n |   0.02 |     790 |      0.01 |      0.02 |
+|    45 |         45 |       78 |    1 |   n |   0.02 |     790 |      0.01 |      0.02 |
+ variable 79 eliminated - finite equation found
+|    44 |         44 |       79 |    1 |   n |   0.02 |     792 |      0.01 |      0.02 |
+ variable 80 eliminated - finite equation found
+|    43 |         43 |       80 |    1 |   n |   0.03 |     794 |      0.01 |      0.02 |
+ variable 81 eliminated - finite equation found
+|    42 |         42 |       81 |    1 |   n |   0.03 |     795 |      0.01 |      0.02 |
+ variable 82 eliminated - finite equation found
+|    41 |         41 |       82 |    1 |   n |   0.03 |     797 |      0.01 |      0.02 |
+ variable 83 eliminated - finite equation found
+|    40 |         40 |       83 |    1 |   n |   0.03 |     799 |      0.01 |      0.02 |
+ variable 84 eliminated - finite equation found
+|    39 |         39 |       84 |    1 |   n |   0.03 |     801 |      0.01 |      0.02 |
+ variable 85 eliminated - finite equation found
+|    38 |         38 |       85 |    1 |   n |   0.03 |     803 |      0.01 |      0.02 |
+|    37 |         37 |       86 |    1 |   n |   0.03 |     803 |      0.01 |      0.02 |
+ variable 87 eliminated - finite equation found
+|    36 |         36 |       87 |    1 |   n |   0.03 |     805 |      0.01 |      0.02 |
+ variable 88 eliminated - finite equation found
+|    35 |         35 |       88 |    1 |   n |   0.03 |     807 |      0.01 |      0.02 |
+ variable 89 eliminated - finite equation found
+|    34 |         34 |       89 |    1 |   n |   0.03 |     809 |      0.01 |      0.02 |
+ variable 90 eliminated - finite equation found
+|    33 |         33 |       90 |    1 |   n |   0.03 |     811 |      0.01 |      0.02 |
+ variable 91 eliminated - finite equation found
+|    32 |         32 |       91 |    1 |   n |   0.03 |     813 |      0.01 |      0.02 |
+ variable 92 eliminated - finite equation found
+|    31 |         31 |       92 |    1 |   n |   0.03 |     815 |      0.01 |      0.02 |
+|    30 |         30 |       93 |    1 |   n |   0.03 |     815 |      0.01 |      0.02 |
+ variable 94 eliminated - finite equation found
+|    29 |         29 |       94 |    1 |   n |   0.04 |     817 |      0.01 |      0.02 |
+ variable 95 eliminated - finite equation found
+|    28 |         28 |       95 |    1 |   n |   0.04 |     819 |      0.01 |      0.02 |
+|    27 |         27 |       96 |    1 |   n |   0.04 |     819 |      0.01 |      0.02 |
+ variable 97 eliminated - finite equation found
+|    26 |         26 |       97 |    1 |   n |   0.04 |     821 |      0.01 |      0.02 |
+ variable 98 eliminated - finite equation found
+|    25 |         25 |       98 |    1 |   n |   0.04 |     823 |      0.01 |      0.02 |
+ variable 99 eliminated - finite equation found
+|    24 |         24 |       99 |    1 |   n |   0.04 |     825 |      0.01 |      0.02 |
+ variable 100 eliminated - finite equation found
+|    23 |         23 |      100 |    1 |   n |   0.04 |     827 |      0.01 |      0.02 |
+ variable 101 eliminated - finite equation found
+|    22 |         22 |      101 |    1 |   n |   0.04 |     829 |      0.01 |      0.02 |
+ variable 102 eliminated - finite equation found
+|    21 |         21 |      102 |    1 |   n |   0.04 |     831 |      0.01 |      0.02 |
+|    20 |         20 |      103 |    1 |   n |   0.04 |     831 |      0.01 |      0.02 |
+ variable 104 eliminated - finite equation found
+|    19 |         19 |      104 |    1 |   n |   0.05 |     833 |      0.01 |      0.02 |
+ variable 105 eliminated - finite equation found
+|    18 |         18 |      105 |    1 |   n |   0.05 |     835 |      0.01 |      0.02 |
+ variable 106 eliminated - finite equation found
+|    17 |         17 |      106 |    1 |   n |   0.05 |     836 |      0.01 |      0.02 |
+ variable 107 eliminated - finite equation found
+|    16 |         16 |      107 |    1 |   n |   0.05 |     838 |      0.01 |      0.02 |
+ variable 108 eliminated - finite equation found
+|    15 |         15 |      108 |    1 |   n |   0.05 |     840 |      0.01 |      0.02 |
+ variable 109 eliminated - finite equation found
+|    14 |         14 |      109 |    1 |   n |   0.06 |     842 |      0.01 |      0.02 |
+|    13 |         13 |      110 |    1 |   n |   0.06 |     842 |      0.01 |      0.02 |
+ variable 111 eliminated - finite equation found
+|    12 |         12 |      111 |    1 |   n |   0.07 |     844 |      0.01 |      0.02 |
+ variable 112 eliminated - finite equation found
+|    11 |         11 |      112 |    1 |   n |   0.07 |     846 |      0.01 |      0.02 |
+ variable 113 eliminated - finite equation found
+|    10 |         10 |      113 |    1 |   n |   0.07 |     848 |      0.01 |      0.02 |
+|     9 |          9 |      114 |    1 |   n |   0.07 |     848 |      0.01 |      0.02 |
+ variable 115 eliminated - finite equation found
+|     8 |          8 |      115 |    1 |   n |   0.07 |     850 |      0.01 |      0.02 |
+ variable 116 eliminated - finite equation found
+|     7 |          7 |      116 |    1 |   n |   0.08 |     852 |      0.02 |      0.02 |
+ variable 117 eliminated - finite equation found
+|     6 |          6 |      117 |    1 |   n |   0.08 |     854 |      0.02 |      0.02 |
+ variable 118 eliminated - finite equation found
+|     5 |          5 |      118 |    1 |   n |   0.09 |     856 |      0.02 |      0.02 |
+ variable 119 eliminated - finite equation found
+|     4 |          4 |      119 |    1 |   n |   0.09 |     858 |      0.02 |      0.02 |
+ variable 43 eliminated - finite equation found
+|     3 |          3 |      120 |    1 |   n |   0.09 |     860 |      0.02 |      0.02 |
+ variable 121 eliminated - finite equation found
+|     2 |          2 |      121 |    1 |   n |   0.09 |     862 |      0.02 |      0.02 |
+|     1 |          1 |      122 |    1 |   n |   0.10 |     862 |      0.02 |      0.02 |
+
+FOURIER - MOTZKIN - ELIMINATION:
+| iter- |      upper |  # ineq  |   max| long|   non- |     mem |  cpu-time | real-time |
+| ation |      bound |          |  bit-|arith|  zeros |    used |      used |      used |
+|       |     # ineq |          |length|metic|   in % |   in kB |    in sec |    in sec |
+|-------|------------|----------|------|-----|--------|---------|-----------|-----------|
+|     2 |         26 |       26 |    1 |   n |   0.05 |    1109 |      0.02 |      0.03 |
+|     1 |         26 |       26 |    1 |   n |   0.05 |    1109 |      0.02 |      0.03 |
+
+sum of inequalities over all iterations :     52
+maximal number of inequalities          :     26
+
+transformation to integer values 
+sorting system 
+transformation to integer values 
+sorting system 
+
+number of equations    :  100 
+number of inequalities :   26 
+
+output written to file ./.tmp/tmp.poi.ieq
+
