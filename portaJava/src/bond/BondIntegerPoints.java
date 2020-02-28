@@ -102,13 +102,23 @@ public class BondIntegerPoints extends AbstractIntegerPoints{
 		ArrayList<ArrayList<Integer>> SE = getSE(n);
 		ArrayList<ArrayList<Integer>> cut ;
 		String s;
+		int x1;
+		int x2;
 		IntegerPoint point = new IntegerPoint(this);
 		for(int i = 0 ; i < SE.size();i++) {
 			if(verifieConSE(adj,SE.get(i),n)){
 				point = new IntegerPoint(this);
 				cut = getCut(SE.get(i));
 				for(int j = 0; j<cut.size();j++) {
-					s = "x" + cut.get(j).get(0)+""+cut.get(j).get(1);
+					x1= cut.get(j).get(0);
+					x2 = cut.get(j).get(1);
+					if(x1 < x2 ) {
+						s = "x" +x1 +""+x2;	
+					}else {
+						s = "x" +x2 +""+x1;	
+					}
+						
+					
 					point.setVariable(s, 1);
 				}
 				//mettre à jour point
@@ -213,12 +223,11 @@ public class BondIntegerPoints extends AbstractIntegerPoints{
 	
 	@Override
 	protected void createVariables() {
-		for(int i = 1; i <= n; ++i)
-			for(int j = 1; j<= n; j++)
-				if(j != i)
-					this.registerVariable(new Variable("x" + i+""+j, 0, 1));
-				else
-					this.registerVariable(new Variable("x" + i+""+j, 0, 0));
+		for(int i = 1; i <= adj.size(); ++i)
+			
+				
+					this.registerVariable(new Variable("x" + adj.get(i-1).get(0)+""+adj.get(i-1).get(1), 0, 1));
+				
 	}
 	
 	public enum Use{

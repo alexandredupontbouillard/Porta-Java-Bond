@@ -257,3 +257,61 @@ number of inequalities :   26
 
 output written to file ./.tmp/tmp.poi.ieq
 
+
+
+
+log for xporta -T ./.tmp/tmp.poi 
+
+input file ./.tmp/tmp.poi o.k.
+dimension              :   11 
+number of cone-points  :    0 
+number of conv-points  :   24 
+
+GAUSS - ELIMINATION:
+| iter- |     # equa |  # ineq  |   max| long|   non- |     mem |  cpu-time | real-time |
+| ation |            |          |  bit-|arith|  zeros |    used |      used |      used |
+|       |            |          |length|metic|   in % |   in kB |    in sec |    in sec |
+|-------|------------|----------|------|-----|--------|---------|-----------|-----------|
+|    12 |         12 |        1 |    1 |   n |   0.15 |      59 |      0.00 |      0.00 |
+|    11 |         11 |        2 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|    10 |         10 |        3 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     9 |          9 |        4 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     8 |          8 |        5 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     7 |          7 |        6 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     6 |          6 |        7 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     5 |          5 |        8 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     4 |          4 |        9 |    1 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     3 |          3 |       10 |    2 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     2 |          2 |       11 |    2 |   n |   0.14 |      59 |      0.00 |      0.00 |
+|     1 |          1 |       12 |    2 |   n |   0.14 |      59 |      0.00 |      0.00 |
+
+FOURIER - MOTZKIN - ELIMINATION:
+| iter- |      upper |  # ineq  |   max| long|   non- |     mem |  cpu-time | real-time |
+| ation |      bound |          |  bit-|arith|  zeros |    used |      used |      used |
+|       |     # ineq |          |length|metic|   in % |   in kB |    in sec |    in sec |
+|-------|------------|----------|------|-----|--------|---------|-----------|-----------|
+|    12 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|    11 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|    10 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     9 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     8 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     7 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     6 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     5 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     4 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     3 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     2 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+|     1 |         12 |       12 |    1 |   n |   0.08 |     852 |      0.00 |      0.00 |
+
+sum of inequalities over all iterations :    144
+maximal number of inequalities          :     12
+
+transformation to integer values 
+sorting system 
+
+number of equations    :    0 
+number of inequalities :   12 
+
+./.tmp/tmp.poi.ieq moved into ./.tmp/tmp.poi.ieq%
+output written to file ./.tmp/tmp.poi.ieq
+
